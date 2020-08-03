@@ -1,0 +1,21 @@
+{
+  "name": "my-first-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "dependencies": {
+    "axios": ""
+  },
+  "devDependencies": {
+    "nock": "^13.0.2",
+    "jest": "^26.1.0"
+  }
+}
